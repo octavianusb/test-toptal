@@ -1,0 +1,7 @@
+Copy
+{
+  "printWidth": 110,
+  "arrowParens": "always",
+  "semi": false,
+  "tabWidth": 4
+}
